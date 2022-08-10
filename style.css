@@ -1,0 +1,23 @@
+body{
+    text-align:center;
+}
+h1{
+    text-align:center;
+}
+.image1 {
+  width: 420px;
+  height: 520px;
+}
+.image2 {
+   width: 720px; 
+   height: 520px;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+}
+
+.thank_you{
+    font-size: 30px;
+    font-weight: 900;
+}
